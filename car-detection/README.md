@@ -2,4 +2,4 @@
 
 ## Result
 
-![result](result.gif)
+![result](outputs.gif)
